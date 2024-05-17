@@ -14,4 +14,5 @@
 **4. View the Project:**
 * Live Website (if applicable): Provide the live URL where users can interact with your charts.
 
-![scatter](https://github.com/ibraeh/scatter-plot/assets/29314702/54f7470a-9473-4b68-a72e-d0cdc3a4098a)
+![scatter](https://github.com/ibraeh/scatter-plot/assets/29314702/4d94e7e2-bb64-4389-ba7a-3d8c795cd7a9)
+
